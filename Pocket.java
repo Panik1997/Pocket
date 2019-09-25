@@ -9,4 +9,7 @@ public class Pocket extends User{
     public int getValue(){
         return value;
     }
+    public void setValue(int x){
+        value = x;
+    }
 }
